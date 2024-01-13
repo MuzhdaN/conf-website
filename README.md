@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This static website was designed and implemented for the AUAF's STEM Division to facilitate the hosting of a conference where researchers from across Afghanistan will present their work. The website was created on April 11, 2021, with a focus on simplicity and user engagement.
+This static website was designed and created for the AUAF's STEM Division to facilitate the hosting of a conference where researchers from across Afghanistan will present their work. The website was created on April 11, 2021, with a focus on simplicity and user engagement.
 
 [View live project here](https://muzhdan.github.io/conf-website/)
 
